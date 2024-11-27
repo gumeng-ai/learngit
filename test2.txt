@@ -3,3 +3,4 @@ Git is free software.
 Github is free.
 add test2
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
