@@ -1,3 +1,4 @@
+Creating a new branch is quick
 Git is a distributed version control system.
 Git is free software.
 Github is free.
@@ -8,5 +9,3 @@ Creating a new branch is quick and simple.
 fix 101
 fix 102
 fix 103
-
-working
